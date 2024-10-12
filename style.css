@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2017/10/11/23/35/musical-background-2842924_960_720.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+    background-color: brown;
+    color: black;
+    width: 700px;
+    border-radius: 30%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+#btn{
+    background-color: blue;
+    height: 40px;
+    width: 60px;
+    border-radius: 20%;
+   
+}
+canvas{
+    border-radius: 20%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 70px;
+}
+
